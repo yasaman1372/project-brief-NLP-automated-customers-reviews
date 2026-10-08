@@ -4,3 +4,7 @@ torch
 transformers
 huggingface_hub
 streamlit
+# For our TF-IDF model: scikit-learn must match the version it was trained with
+scikit-learn==1.7.2
+nltk
+joblib
