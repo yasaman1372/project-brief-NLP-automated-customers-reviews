@@ -12,6 +12,8 @@ models/*
 
 app/models/*
 
+Notebooks/02_sentiment_analysis_before_hf_export.ipynb
+Notebooks/02_sentiment_analysis_backup.ipynb
 # Python
 __pycache__/
 *.py[cod]
